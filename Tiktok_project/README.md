@@ -5,7 +5,7 @@
 - These records are generated from the trip record submissions made by yellow taxi Technology Service Providers (TSPs). Each row represents a single trip in a yellow taxi. The trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off taxi zone locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 - [Link to dataset](https://www.kaggle.com/datasets/nhiyenta/tiktok-dataset/data)
 - About dataset: 12 columns
-![tiktok_dataset.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Tiktok_data_detail.png)
+- ![tiktok_dataset.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Tiktok_data_detail.png)
 
 
 ## 2.  Project scenario
