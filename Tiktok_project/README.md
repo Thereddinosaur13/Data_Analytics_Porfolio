@@ -27,3 +27,6 @@
 - Create a Tableau dashboard showing a simple claims versus opinions count, as well as stacked bar charts of claims versus opinions for variables like video view counts, video like counts, video share counts, and video download counts.
 - [Link to Tableau Public](https://public.tableau.com/app/profile/t.nhi/viz/TIKTOKProject/Story1)
 
+
+![tiktok_dataset.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Tiktok_data_Story_1.png)
+![tiktok_dataset.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Tiktok_data_Story_2.png)
