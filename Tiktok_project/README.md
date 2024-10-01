@@ -17,7 +17,7 @@
 
 ## 3. Tiktok inspect and analyze data
 - The purpose and explanation are both included in the file below.
-- [Link to notebook](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Tiktok_project/tiktok-python-visulize.ipynb)
+- [Link to notebook](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Tiktok_project/tiktok-inspect-and-analyze-data.ipynb)
 
 ## 4. Tiktok Python Visualization
 - The purpose and explanation are both included in the file below.
@@ -25,5 +25,5 @@
  
 ## 5. Tiktok Tableau Visualization
 - Create a Tableau dashboard showing a simple claims versus opinions count, as well as stacked bar charts of claims versus opinions for variables like video view counts, video like counts, video share counts, and video download counts.
-- [Link to Tableau Public](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Tiktok_project/tiktok-python-visulize.ipynb)
+- [Link to Tableau Public](https://public.tableau.com/app/profile/t.nhi/viz/TIKTOKProject/Sheet1)
 
