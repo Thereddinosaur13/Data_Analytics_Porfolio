@@ -19,7 +19,7 @@
 
 ## 4. NYC-TLC-Yellow-Taxi-Data Python Visualization
 - The purpose and explanation are both included in the file below.
-- [Link to notebook](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/tree/main/Automatidata_project/Visualize_with_ Python.ipynb)
+- [Link to notebook](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Automatidata_project/Visualize_with_%20Python.ipynb)
  
 ## 5. NYC-TLC-Yellow-Taxi-Data Tableau Visualization
 - Create a Tableau dashboard showing a simple claims versus opinions count, as well as stacked bar charts of claims versus opinions for variables like video view counts, video like counts, video share counts, and video download counts.
