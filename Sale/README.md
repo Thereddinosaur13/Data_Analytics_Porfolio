@@ -5,11 +5,8 @@
 - A company need to improve  their internet sales reports and want to move from static reports to visual dashboards.
 - [Source Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms): The project use database backups (.bak) files that you can use to install the AdventureWorks (OLTP) and AdventureWorksDW (data warehouse) sample databases to your SQL Server instance.
 - Tools and techniques: 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<img src="![images/example.png](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/NTY_data_Sheet1.png)" width="300" />
+
 ![tiktok_dataset.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/NTY_data_detail.png)
 
 ## 2.  Project scenario
