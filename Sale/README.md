@@ -16,11 +16,11 @@
 ### 1. Extract data and Transformation
 ⭐ Extracted data file:
 
-- [Sales_Dim_Date.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sales_Dim_Date.csv) - HTML enhanced for web apps!
-- [Sale_Dim_Customer.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_Customer.csv) - awesome web-based text editor
-- [Sale_Dim_Product.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_Product.csv) - Markdown parser done right. Fast and easy to extend.
-- [Sale_Dim_FactInternetSale.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_FactInternetSale.csv) - Fact table about internet sale revenue, [click](**[AdventureWorksDW2019].[dbo].[DimDate]**)
-- [SalesBudget.xlsx](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/SalesBudget.xlsx): sales budget in the years 2022, 2023, 2024 provided by the company
+- [Sales_Dim_Date.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sales_Dim_Date.csv) - Dimension table about Datetime.
+- [Sale_Dim_Customer.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_Customer.csv) - Dimension table about internet sale Customers.
+- [Sale_Dim_Product.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_Product.csv) - Dimension table about internet sale Products.
+- [Sale_Dim_FactInternetSale.csv](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale_Dim_FactInternetSale.csv) - Fact table about internet sale revenue
+- [SalesBudget.xlsx](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/SalesBudget.xlsx): sales budget in the years 2022, 2023, 2024 provided by the company.
 
 Extract information about datetime in dimension table **[AdventureWorksDW2019].[dbo].[DimDate]**:
  
@@ -103,6 +103,47 @@ FROM [AdventureWorksDW2019].[dbo].[FactInternetSales]
 WHERE LEFT(OrderDateKey, 4) >= (YEAR(GETDATE())-2)
 ORDER BY [OrderDateKey] ASC
 ```
+
+### 2. Data Connect
+<p align="center" width="100%">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale_project_data_connect.png" width="700">
+</p>
+
+### 3. Create Dashboard
+⭐ Users stories:
+
+| User (work as)  | Request | User value |
+| ------------- | ------------- | ------------- |
+| Sales Manager  | To get dashboard overview of Internet Sale | Can follow which customers and products sells the best <br> Follow sales over time against budget |
+| Sales Representative  | A detail overview of internet sale per products and customers  | Can follow up customers that buy the most and products that sell the most  |
+
+⭐ You can download Power BI dashboard file here:
+- [Sale.pbix](https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/Sale/Sale.pbix) - Power BI dashboard file
+
+### 📊 📈 📉  Dashboard - 2022 
+
+<p align="center" width="100%">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-2.jpg" width="700">
+</p>
+
+### 📊 📈 📉  Dashboard - 2023
+
+<p align="center" width="100%">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-2.jpg" width="700">
+</p>
+
+### 📊 📈 📉  Dashboard - 2024
+
+<p align="center" width="100%">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-2.jpg" width="700">
+</p>
+
 ## Results and Findings
 
  
