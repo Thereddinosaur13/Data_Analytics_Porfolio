@@ -123,25 +123,25 @@ ORDER BY [OrderDateKey] ASC
 ### 📊 📈 📉  Dashboard - 2022 
 
 <p align="center" width="100%">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-0.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-1.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2022)-images-2.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2022-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2022-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2022-images-2.jpg" width="700">
 </p>
 
 ### 📊 📈 📉  Dashboard - 2023
 
 <p align="center" width="100%">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-0.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-1.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2023)-images-2.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2023-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2023-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2023-images-2.jpg" width="700">
 </p>
 
 ### 📊 📈 📉  Dashboard - 2024
 
 <p align="center" width="100%">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-0.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-1.jpg" width="700">
- <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale%20(2024)-images-2.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2024-images-0.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2024-images-1.jpg" width="700">
+ <img src="https://github.com/Thereddinosaur13/Data_Analytics_Porfolio/blob/main/img/Sale2024-images-2.jpg" width="700">
 </p>
 
 ## Results and Findings
